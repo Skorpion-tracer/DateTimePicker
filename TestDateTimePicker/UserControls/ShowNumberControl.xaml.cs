@@ -54,15 +54,5 @@ namespace TestDateTimePicker.UserControls
         {
             CurrentNumber++;
         }
-
-        //private int _currNumber = 0;
-        //public int CurrentNumber
-        //{
-        //    get => _currNumber;
-        //    set {
-        //        _currNumber = value;
-        //        numberDisplay.Content = CurrentNumber.ToString();
-        //    }
-        //}
     }
 }
