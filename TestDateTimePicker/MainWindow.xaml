@@ -41,12 +41,6 @@
 
             <DatePickerTest:ShowNumberControl Grid.Row="4"
                                               CurrentNumber="{Binding FontSizeing, Mode=TwoWay}"/>
-
-            <Button Grid.Row="5" 
-                    Width="100" 
-                    Height="20" 
-                    Content="Показать"
-                    Click="Button_ShowI"/>
         </Grid>
     </Grid>
 </Window>

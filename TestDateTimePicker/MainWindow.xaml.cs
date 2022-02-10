@@ -29,10 +29,5 @@ namespace TestDateTimePicker
             
             DataContext = new MainWindowVM();
         }
-
-        private void Button_ShowI(object sender, RoutedEventArgs e)
-        {
-            MessageBox.Show($"{i}");
-        }
     }
 }
