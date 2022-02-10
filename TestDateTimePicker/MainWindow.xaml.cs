@@ -21,8 +21,6 @@ namespace TestDateTimePicker
     /// </summary>
     public partial class MainWindow : Window
     {
-        public static int i { get; set; } = 0;
-
         public MainWindow()
         {
             InitializeComponent();
